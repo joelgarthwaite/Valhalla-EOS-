@@ -2540,7 +2540,7 @@
             if (!isSupabaseConfigured() || !currentUser) return null;
 
             try {
-                const { data, error } = await supabase
+                const { data, error } = await supabaseClient
                     .from('organization_members')
                     .select('organization_id, organizations(id, name)')
                     .eq('user_id', currentUser.id)
