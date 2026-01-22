@@ -6,6 +6,18 @@ A single-page EOS (Entrepreneurial Operating System) dashboard for Valhalla Hold
 
 **Now supports multi-user collaboration via Supabase!**
 
+## Live Deployment
+
+- **Live URL:** https://joelgarthwaite.github.io/Valhalla-EOS-/
+- **GitHub Repo:** https://github.com/joelgarthwaite/Valhalla-EOS-
+- **Supabase Project ID:** aovoergyztmyegzedurx
+- **Supabase Dashboard:** https://supabase.com/dashboard/project/aovoergyztmyegzedurx
+- **Organization ID:** 3ec49d66-29ff-41e1-9f8d-129a037d67bd
+
+### Current Users
+- Joel (joel@displaychamp.com)
+- Lee
+
 ## Technology Stack
 
 - **Single HTML file** (`index.html`) - No build process required
